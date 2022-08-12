@@ -1,6 +1,8 @@
 # Calculator-copy
 Calculator using Python code.
 
+![](result.png)
+
 # Dependency
 - Python 3
 - Tkinter https://docs.python.org/3/library/tkinter.html
